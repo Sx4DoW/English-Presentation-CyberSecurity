@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img">
+  <title>Hacker top hat colours</title>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#02050a" flood-opacity="0.42"/>
+    </filter>
+  </defs>
+  <rect width="640" height="460" rx="34" fill="#101720"/>
+  <path d="M68 378 C150 324 230 416 318 330 C416 236 480 298 574 218" fill="none" stroke="#263747" stroke-width="3" opacity="0.7"/>
+  <rect x="66" y="62" width="508" height="336" rx="30" fill="#172331" stroke="rgba(255,255,255,0.14)"/>
+  <g filter="url(#shadow)" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="900" text-anchor="middle">
+    <g transform="translate(104 112)">
+      <rect x="22" y="0" width="54" height="72" rx="8" fill="#f4f7fb" stroke="#cbd7e4" stroke-width="4"/>
+      <rect x="4" y="66" width="90" height="18" rx="9" fill="#f4f7fb" stroke="#cbd7e4" stroke-width="4"/>
+      <rect x="24" y="46" width="50" height="12" fill="#4dd7ff"/>
+      <text x="49" y="112" fill="#d7e1ec">White</text>
+    </g>
+    <g transform="translate(224 112)">
+      <rect x="22" y="0" width="54" height="72" rx="8" fill="#0b1119" stroke="#566272" stroke-width="4"/>
+      <rect x="4" y="66" width="90" height="18" rx="9" fill="#0b1119" stroke="#566272" stroke-width="4"/>
+      <rect x="24" y="46" width="50" height="12" fill="#ff4f6d"/>
+      <text x="49" y="112" fill="#d7e1ec">Black</text>
+    </g>
+    <g transform="translate(344 112)">
+      <rect x="22" y="0" width="54" height="72" rx="8" fill="#7e8b9a" stroke="#aeb9c7" stroke-width="4"/>
+      <rect x="4" y="66" width="90" height="18" rx="9" fill="#7e8b9a" stroke="#aeb9c7" stroke-width="4"/>
+      <rect x="24" y="46" width="50" height="12" fill="#d7e1ec"/>
+      <text x="49" y="112" fill="#d7e1ec">Grey</text>
+    </g>
+    <g transform="translate(464 112)">
+      <rect x="22" y="0" width="54" height="72" rx="8" fill="#52c66b" stroke="#9af28e" stroke-width="4"/>
+      <rect x="4" y="66" width="90" height="18" rx="9" fill="#52c66b" stroke="#9af28e" stroke-width="4"/>
+      <rect x="24" y="46" width="50" height="12" fill="#102018"/>
+      <text x="49" y="112" fill="#d7e1ec">Green</text>
+    </g>
+    <g transform="translate(164 266)">
+      <rect x="22" y="0" width="54" height="72" rx="8" fill="#2f7fe8" stroke="#78caff" stroke-width="4"/>
+      <rect x="4" y="66" width="90" height="18" rx="9" fill="#2f7fe8" stroke="#78caff" stroke-width="4"/>
+      <rect x="24" y="46" width="50" height="12" fill="#101720"/>
+      <text x="49" y="112" fill="#d7e1ec">Blue</text>
+    </g>
+    <g transform="translate(284 266)">
+      <rect x="22" y="0" width="54" height="72" rx="8" fill="#ef405a" stroke="#ff94a2" stroke-width="4"/>
+      <rect x="4" y="66" width="90" height="18" rx="9" fill="#ef405a" stroke="#ff94a2" stroke-width="4"/>
+      <rect x="24" y="46" width="50" height="12" fill="#101720"/>
+      <text x="49" y="112" fill="#d7e1ec">Red</text>
+    </g>
+    <g transform="translate(404 266)">
+      <rect x="22" y="0" width="54" height="72" rx="8" fill="#8b5cf6" stroke="#c4a7ff" stroke-width="4"/>
+      <rect x="4" y="66" width="90" height="18" rx="9" fill="#8b5cf6" stroke="#c4a7ff" stroke-width="4"/>
+      <rect x="24" y="46" width="50" height="12" fill="#101720"/>
+      <text x="49" y="112" fill="#d7e1ec">Purple</text>
+    </g>
+  </g>
+</svg>
